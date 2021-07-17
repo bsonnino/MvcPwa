@@ -1,0 +1,5 @@
+/.vs
+/appsettings.Development.json
+/bin
+/MvcPwa.csproj.user
+/obj
